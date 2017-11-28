@@ -33,7 +33,7 @@ Found 17 items
 -rw-r--r--   3 nimbus nimbus  409600000 2017-08-11 09:48 /user/nimbus/tgen/part-m-00013
 -rw-r--r--   3 nimbus nimbus  409600000 2017-08-11 09:48 /user/nimbus/tgen/part-m-00014
 -rw-r--r--   3 nimbus nimbus  409600000 2017-08-11 09:48 /user/nimbus/tgen/part-m-00015```
-
+```
 ### The command and output of hadoop fsck -blocks /user/nimbus
 
 ```
